@@ -20,11 +20,11 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 *******************************************************************************''')
 
 print("welcome to treasure island \nyour mission is to find treasure")
-choice1=input("you are at a crossroad, where do you want to go? type left or right\n").lower()
+choice1=input("you are at a crossroad, where do you want to go? type left or right:").lower()
 if choice1=="left":
-    choice2=input('You have come to a lake.\nthere is a island in middle of the lake,\ntype "wait" to wait for a boat \nor "swim" to swim to across\n').lower()
+    choice2=input('You have come to a lake.\nthere is a island in middle of the lake,\ntype "wait" to wait for a boat \nor "swim" to swim to across:').lower()
     if choice2=="wait":
-          choice3=input('You have 3 doors to enter.\ntype "red" to choose red door,\ntype "blue" to choose blue door \nor type "yellow" to choose yellow door\n').lower()
+          choice3=input('You have 3 doors to enter.\ntype "red" to choose red door,\ntype "blue" to choose blue door \nor type "yellow" to choose yellow door:').lower()
           if choice3=="red":
            print("Burned by fire.Game Over.")
           elif choice3=="blue":
