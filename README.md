@@ -15,21 +15,50 @@ In this game, the player navigates through a series of decisions:
 Each decision will either bring the player closer to the treasure or result in **Game Over**!
 
 ---
-welcome to treasure island
+
+## 🧪 Example Gameplay
+
+<pre>
+
+ *******************************************************************************
+          |                   |                  |                     |
+ _________|________________.=""_;=.______________|_____________________|_______
+|                   |  ,-"_,=""     `"=.|                  |
+|___________________|__"=._o`"-._        `"=.______________|___________________
+          |                `"=._o`"=._      _`"=._                     |
+ _________|_____________________:=._o "=._."_.-="'"=.__________________|_______
+|                   |    __.--" , ; `"=._o." ,-"""-._ ".   |
+|___________________|_._"  ,. .` ` `` ,  `"-._"-._   ". '__|___________________
+          |           |o`"=._` , "` `; .". ,  "-._"-._; ;              |
+ _________|___________| ;`-.o`"=._; ." ` '`."\` . "-._ /_______________|_______
+|                   | |o;    `"-.o`"=._``  '` " ,__.--o;   |
+|___________________|_| ;     (#) `-.o `"=.`_.--"_o.-; ;___|___________________
+____/______/______/___|o;._    "      `".o|o_.--"    ;o;____/______/______/____
+/______/______/______/_"=._o--._        ; | ;        ; ;/______/______/______/_
+____/______/______/______/__"=._o--._   ;o|o;     _._;o;____/______/______/____
+/______/______/______/______/____"=._o._; | ;_.--"o.--"_/______/______/______/_
+____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
+/______/______/______/______/______/______/______/______/______/______/[TomekK]
+*******************************************************************************
+welcome to treasure island 
 your mission is to find treasure
 you are at a crossroad, where do you want to go? type left or right
 left
 You have come to a lake.
 there is a island in middle of the lake,
-type "wait" to wait for a boat
+type "wait" to wait for a boat 
 or "swim" to swim to across
 wait
 You have 3 doors to enter.
 type "red" to choose red door,
-type "blue" to choose blue door
+type "blue" to choose blue door 
 or type "yellow" to choose yellow door
 yellow
-You Win!
+You Win! 
+
+
+  
+</pre>
 
 
 ---
