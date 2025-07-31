@@ -20,7 +20,7 @@ Each decision will either bring the player closer to the treasure or result in *
 
 <pre>
 
- *******************************************************************************
+*******************************************************************************
           |                   |                  |                     |
  _________|________________.=""_;=.______________|_____________________|_______
 |                   |  ,-"_,=""     `"=.|                  |
@@ -42,19 +42,17 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 *******************************************************************************
 welcome to treasure island 
 your mission is to find treasure
-you are at a crossroad, where do you want to go? type left or right
-left
+you are at a crossroad, where do you want to go? type left or right:left
 You have come to a lake.
 there is a island in middle of the lake,
 type "wait" to wait for a boat 
-or "swim" to swim to across
-wait
+or "swim" to swim to across:wait
 You have 3 doors to enter.
 type "red" to choose red door,
 type "blue" to choose blue door 
-or type "yellow" to choose yellow door
-yellow
-You Win! 
+or type "yellow" to choose yellow door:yellow
+You Win!
+
 
 
   
